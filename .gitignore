@@ -1,0 +1,30 @@
+
+#filetemporaryVIM
+*.swp
+*.sw*
+
+# python compiled file
+*.pyc
+
+# temp editing files
+*.swk
+*.swm
+
+
+# env dir
+venv
+
+# info
+*.*-info
+
+# build
+build
+
+# distribution files
+dist
+*.egg
+
+# intellij idea project directory
+.idea/*
+
+__pyache__/*
